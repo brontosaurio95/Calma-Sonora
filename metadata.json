@@ -1,0 +1,6 @@
+{
+  "name": "Calma Sonora",
+  "description": "Tres minijuegos en pixel art de 15 minutos diseñados para enfocar la atención y el circuito auditivo, seguidos de 1 minuto de respiración por tiempos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
